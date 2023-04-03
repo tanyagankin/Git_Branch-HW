@@ -1,0 +1,16 @@
+cat > bag_report.txt
+
+bag report:
+1.Date
+2.ID
+3.Title
+4.Steps
+5.Severity
+6.Priority
+7.Precondition
+8.Environment
+9.ER
+10.AR
+11.Attachment
+12.Author
+13.Notes
